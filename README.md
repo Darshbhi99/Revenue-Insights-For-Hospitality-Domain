@@ -97,14 +97,14 @@ SELECTEDVALUE(), FILTER()
 **Libraries:** PowerBI DAX
 
 
-## Revenue Chart
+## Insight Main Chart
 
-![App Screenshot](https://github.com/Darshbhi99/T20-World-Cup-Playing-11/blob/main/Images/Openers.png?raw=true)
+![App Screenshot](https://github.com/Darshbhi99/Revenue-Insights-For-Hospitality-Domain/blob/main/Images/Main%20Page.png?raw=true)
 
 
 ## ToolTips Added 
 
-![App Screenshot](https://github.com/Darshbhi99/T20-World-Cup-Playing-11/blob/main/Images/playing11.png?raw=true)
+![App Screenshot](https://github.com/Darshbhi99/Revenue-Insights-For-Hospitality-Domain/blob/main/Images/Tooltips.png?raw=true)
 
 
 ## Lessons Learned
@@ -157,4 +157,4 @@ PowerBI Chart creation. Adding Measures using DAX Functions.
 
 ## Acknowledgements
 
- - [Dataset Download](https://github.com/Darshbhi99/T20-World-Cup-Playing-11/tree/main/Raw%20Data)
+ - [Dataset Download](https://github.com/Darshbhi99/Revenue-Insights-For-Hospitality-Domain/tree/main/data)
